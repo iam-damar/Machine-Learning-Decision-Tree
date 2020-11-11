@@ -4,7 +4,7 @@ Damar Djati Wahyu Kemala <br/>
 
 - first, Upload file with format .csv in your Colab google. 
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/iam-damar/Machine-Learning-Decision-Tree/Modul_2 Decision_Tree.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15U9ReWWIiRhfII-acYa9PMC50QHfrQMY)
 
 - Decision Tree <br/>
 - You can use this csv file for trainning data and testing data. <br/>
