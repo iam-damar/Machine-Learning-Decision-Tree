@@ -4,6 +4,8 @@ Damar Djati Wahyu Kemala <br/>
 
 - first, Upload file with format .csv in your Colab google. 
 
+You can clone this file into your local computer ```https://github.com/iam-damar/Machine-Learning-Decision-Tree.git```
+
 Or you can open directly Here! [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15U9ReWWIiRhfII-acYa9PMC50QHfrQMY)
 
 - Decision Tree <br/>
